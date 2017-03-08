@@ -1,7 +1,7 @@
 Postal Boundary Data
 ====
 
-This Repository contains the spatial data of Pincode Boundries as available on [NIC's Post-office site]( http://postoffice.umd.nic.in:8080/nicutility/)
+This Repository contains the spatial data of Pincode Boundaries as available on [NIC's Post-office site]( http://postoffice.umd.nic.in:8080/nicutility/)
 
 
 
